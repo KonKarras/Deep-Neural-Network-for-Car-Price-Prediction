@@ -18,6 +18,6 @@ All this data preprocessing makes us ready to fit our model and experiment with 
 
 # Results
 
-After fine-tuning the hyperparameters and testing the model on the test subset which it has never seen before, we conclude with quite enthusiastic car price predictions where, the cases in which the predicted price was less than 10% away from the actual price (in absolute values), reach up to 97%! 
+After fine-tuning the hyperparameters and testing the model on the test subset which it has never seen before, we conclude with quite enthusiastic car price predictions where, the cases in which the predicted price was less than 10% away from the actual price (in absolute values), reach up to 98%! 
 
 Of course there could definetely be a lot of space for progress, so i am looking forward to hearing for any corrections or improvements that you may think of.
