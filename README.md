@@ -6,6 +6,7 @@ The original dataset along with the original project's outline can be found in t
 https://app.datacamp.com/certification/resource-center/practical-hub
 
 The project's solution found in Datacamp's workspace focused on Linear Regression and Decision Tree procedures for price estimations, so i decided to try a Deep Neural Network and the results were quite close to the ones of the formentioned procedures.
+Used Python in Jupyter Notebook and particularly Tensorflow, Sci-Kit Learn, Pandas, NumPy as well as Matplotlib and Seaborn for the visualizations.
 
 At first some data validation takes place, giving a quick check over the main characteristics of our dataset. Inspecting for any missing values or identifying the included data types.
 
